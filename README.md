@@ -5,7 +5,7 @@ A live, deployed Retrieval-Augmented Generation (RAG) application that allows us
 🚀 Live Demo
 
 🔗 Live App:
-[https://your-app-link.streamlit.app](https://rag-pdf-chatbot-wdxgjqd6imdwgreusibgdj.streamlit.app/)
+[https://your-app-link.streamlit.app](https://rag-pdf-chatbot-wdxgjqd6imdwgreusibgdj.streamlit.app/)](https://rag-pdf-chatbot-wdxgjqd6imdwgreusibgdj.streamlit.app/)
 
 💻 GitHub Repository:
 https://github.com/venkatraja1002-sudo/rag-pdf-chatbot
@@ -75,4 +75,3 @@ streamlit run app.py
 
 This app is deployed using Streamlit Community Cloud.
 
-Secrets (API Keys) are stored securely using Streamlit Secrets Manager.
